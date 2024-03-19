@@ -1,4 +1,6 @@
-### Hi there 👋
+## About me
+Hello! I'm a recent graduate of the University of Georgia with a BA in Cognitive Science and a BS in Computer Science. My primary interests are Artificial Intelligence and Robotics, and I'm currently looking for any opportunities that fall under the subsets of these two fields. As of now I'm also looking to both reinforce and expand my knowledge through various programs on Udacity and Coursera as I prepare to start my part-time pursuit of an MS in Artificial Intelligence at Johns Hopkins University this Fall.
+
 
 <!--
 **dsSarcos/dsSarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
 -->
